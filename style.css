@@ -17,6 +17,7 @@ html, body {
 .white {
   color:white;
 }
+
 p {
   padding-top:15px;
   padding-bottom:15px;
@@ -26,6 +27,7 @@ button {
   margin-top:20px;
   margin-bottom:20px;
 }
+
 .alert {
   margin-top:20px;
   display:none;
