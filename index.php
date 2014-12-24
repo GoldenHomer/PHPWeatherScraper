@@ -16,9 +16,9 @@
   <div class="container">
   	<div class="row">
   	  <div class="col-md-6 col-md-offset-3 center">
-    		<h1 class="center white">Weather Predictor</h1>
+    		<h1 class="center black">Weather Predictor</h1>
 
-    		<p class="lead center white">Enter a city below to get a weather forecast.</p>
+    		<p class="lead center black">Enter a city below to get a weather forecast.</p>
 
     		<form>
     		  <div class="form-group">
