@@ -33,6 +33,8 @@
   	  </div>
   	</div>
   </div>
+  <script src="jquery-1.11.2.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   <script>
 
     $("#findMyWeather").click(function(event) {
@@ -58,7 +60,5 @@
     });
 
   </script>
-  <script src="jquery-1.11.2.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 </body>
 </html>
